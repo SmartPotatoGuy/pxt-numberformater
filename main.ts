@@ -2,7 +2,8 @@
 namespace numberformater {
 
     /**
-     * Format a number with suffixes (k, m, b, t, q, Q, s, S)
+     * Format a number into short form with suffixes
+     * Supports: k, m, b, t, q, Q, s, S
      */
     //% blockId=numberformater_format
     //% block="format number %value"
