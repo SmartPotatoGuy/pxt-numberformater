@@ -1,0 +1,18 @@
+{
+    "name": "numberformater",
+    "version": "1.0.0",
+    "description": "Format large numbers (1k, 1m, 1b, 1t, 1q, 1Q, 1s, 1S) for MakeCode Arcade",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "testFiles": [],
+    "public": true,
+    "targetVersions": {
+        "branch": "main",
+        "tag": "v1.0.0",
+        "target": "arcade"
+    }
+}
